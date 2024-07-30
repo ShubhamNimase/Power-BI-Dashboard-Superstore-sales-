@@ -8,7 +8,7 @@
 
 1. *Below is the overall dashboard which shows the different visuals about sales and profit in the year 2019 and 2020.*
 
-![](https://github.com/ShubhamNimase/Power-BI-Dashboard-Superstore-sales-/blob/main/image1.png)
+![](image1.png)
 
 
 >  _Here we see that in given years the store has sold 22.3k products worth 1.57M with average delivery time of 4 days._
