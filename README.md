@@ -7,7 +7,7 @@
 <br>
 
 1. *Below is the overall dashboard which shows the different visuals about sales and profit in the year 2019 and 2020.*
-<p align="center"><img src=image1.png/></p>
+<p align="center"><img src='image1.png'/></p>
 
 >  _Here we see that in given years the store has sold 22.3k products worth 1.57M with average delivery time of 4 days._
 
