@@ -40,7 +40,7 @@
 ---
 
 6. *This 6th dash board shows the forecast of sales we made for the next 15 days.*
-<p align="center">
-<img src="https://github.com/ShubhamNimase/Power-BI-Dashboard-Superstore-sales-/blob/033a9c00b3bde63de2a5b06a6d604f5951f8bb8c/imagef.png"> </p>
+
+![](imagef.png)
 
 ---
