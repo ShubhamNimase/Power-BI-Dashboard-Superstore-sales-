@@ -22,22 +22,25 @@
 ---
 
 3. *This 3rd dash board shows the insights for only east region.*
-<html>
- <p align="center"><img src="https://github.com/ShubhamNimase/Power-BI-Dashboard-Superstore-sales-/blob/main/image4.png"/></p>
-</html>
+
+![](image4.png)
+
 ---
 
 4. *This 4th dash board shows the insights for only south region.*
-<p align="center"><img src="https://github.com/ShubhamNimase/Power-BI-Dashboard-Superstore-sales-/blob/main/image3.png"/></p>
+
+![](image3.png)
 
 ---
 
 5. *This 5th dash board shows the insights for only west region.*
-<p align="center"><img src="https://github.com/ShubhamNimase/Power-BI-Dashboard-Superstore-sales-/blob/main/image2.png"/></p>
+
+![](image2.png)
 
 ---
 
 6. *This 6th dash board shows the forecast of sales we made for the next 15 days.*
-<p align="center"><img src="https://github.com/ShubhamNimase/Power-BI-Dashboard-Superstore-sales-/blob/main/imagef.png"/></p>
+
+![](imagef.png)
 
 ---
