@@ -8,7 +8,7 @@
 
 1. *Below is the overall dashboard which shows the different visuals about sales and profit in the year 2019 and 2020.*
 
-![](image1.png)
+![dashboard](image1.png)
 
 
 >  _Here we see that in given years the store has sold 22.3k products worth 1.57M with average delivery time of 4 days._
@@ -17,30 +17,33 @@
 
 2. *This 2nd dash board shows the insights for only central region.*
 
-![](image5.png)
+![dashboard](image5.png)
 
 ---
 
 3. *This 3rd dash board shows the insights for only east region.*
 
-![](image4.png)
+![dashboard](image4.png)
 
 ---
 
 4. *This 4th dash board shows the insights for only south region.*
 
-![](image3.png)
+![dashboard](image3.png)
 
 ---
 
 5. *This 5th dash board shows the insights for only west region.*
 
-![](image2.png)
+![dashboard](image2.png)
 
 ---
 
 6. *This 6th dash board shows the forecast of sales we made for the next 15 days.*
+<p align="center">
+ <img src=imagef.png alt="forecast">
+</p>
 
-![](imagef.png)
+![dashboard](imagef.png)
 
 ---
