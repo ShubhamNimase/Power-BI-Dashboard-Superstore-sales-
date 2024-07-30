@@ -16,13 +16,15 @@
 ---
 
 2. *This 2nd dash board shows the insights for only central region.*
-<p align="center"><img src="https://github.com/ShubhamNimase/Power-BI-Dashboard-Superstore-sales-/blob/main/image5.png"/></p>
+
+![](image5.png)
 
 ---
 
 3. *This 3rd dash board shows the insights for only east region.*
-<p align="center"><img src="https://github.com/ShubhamNimase/Power-BI-Dashboard-Superstore-sales-/blob/main/image4.png"/></p>
-
+<html>
+ <p align="center"><img src="https://github.com/ShubhamNimase/Power-BI-Dashboard-Superstore-sales-/blob/main/image4.png"/></p>
+</html>
 ---
 
 4. *This 4th dash board shows the insights for only south region.*
