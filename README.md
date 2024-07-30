@@ -40,9 +40,6 @@
 ---
 
 6. *This 6th dash board shows the forecast of sales we made for the next 15 days.*
-<p align="center">
- <img src=imagef.png alt="forecast">
-</p>
 
 ![dashboard](imagef.png)
 
