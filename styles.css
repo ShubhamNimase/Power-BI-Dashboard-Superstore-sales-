@@ -1,5 +1,9 @@
 body{margin:0 ;
-     background:black;
+     background-color:black;
      text-align:center;
      color:white;
     }
+h1{color:blue;
+   background:orange;
+  }
+
